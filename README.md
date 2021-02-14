@@ -27,3 +27,13 @@ What we learn ?
 - Object Oriented Programming 
 - Inheritance
 - Encapsulation 
+
+<b>MODULE 3 </b>
+- Asynchronous Programming 
+- Events 
+- Delegates 
+- Collections 
+- Multithreading 
+- Generics 
+- LINQ
+
