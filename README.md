@@ -11,3 +11,19 @@ What we learn ?
   - Non-primitive types 
 - Control Flow
 - Debugging
+
+<b>MODULE 1 </b>
+- Variables
+- Datatypes 
+- Arithmetic operators 
+- Logical operators 
+- Comparison Operators 
+- Loop 
+
+<b>MODULE 2 </b>
+- Class 
+- Methods 
+- Properties 
+- Object Oriented Programming 
+- Inheritance
+- Encapsulation 
