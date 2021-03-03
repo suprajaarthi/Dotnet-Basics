@@ -9,8 +9,8 @@
 -  csc Filename.cs
 -  Filename
 -  Filename should be same as class name 
-C#
-What we learn ? 
+
+<b>What we learn ? </b>
 - C# and dotnet basics 
 - Difference between them 
 - CLR assemblies - (Common Language Runtime)
