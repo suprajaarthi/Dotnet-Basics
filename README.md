@@ -1,7 +1,6 @@
 # C-sharp
-<b> 
-  Installation
-  </b> 
+<b> Installation </b>
+
 -  https://visualstudio.microsoft.com/downloads/ 
 -  Download free version 
 -  Install C#,.net,Unity,(Flask,Node Optional) plugins 
