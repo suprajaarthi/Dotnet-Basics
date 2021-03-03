@@ -2,14 +2,14 @@
 <b> 
   Installation
   </b> 
-  -  https://visualstudio.microsoft.com/downloads/ 
-  -  Download free version 
- -  Install C#,.net,Unity,(Flask,Node Optional) plugins 
- -  To run C# in sublime text 
- -  set path=%path%:C:\Windows\Microsoft.NET\Framework\v3.5
- -  csc Filename.cs
- -  Filename
- -  Filename should be same as class name 
+-  https://visualstudio.microsoft.com/downloads/ 
+-  Download free version 
+-  Install C#,.net,Unity,(Flask,Node Optional) plugins 
+-  To run C# in sublime text 
+-  set path=%path%:C:\Windows\Microsoft.NET\Framework\v3.5
+-  csc Filename.cs
+-  Filename
+-  Filename should be same as class name 
 C#
 What we learn ? 
 - C# and dotnet basics 
