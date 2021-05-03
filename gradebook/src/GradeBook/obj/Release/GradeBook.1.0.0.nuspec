@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GradeBook</id>
+    <version>1.0.0</version>
+    <authors>GradeBook</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/dilip/Desktop/gradebook/src/GradeBook/bin/Release/net5.0/GradeBook.runtimeconfig.json" target="lib/net5.0/GradeBook.runtimeconfig.json" />
+    <file src="/Users/dilip/Desktop/gradebook/src/GradeBook/bin/Release/net5.0/GradeBook.dll" target="lib/net5.0/GradeBook.dll" />
+  </files>
+</package>

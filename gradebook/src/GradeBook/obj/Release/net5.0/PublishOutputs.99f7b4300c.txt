@@ -1,0 +1,4 @@
+/Users/dilip/Desktop/gradebook/src/GradeBook/bin/Release/net5.0/publish/GradeBook.dll
+/Users/dilip/Desktop/gradebook/src/GradeBook/bin/Release/net5.0/publish/GradeBook.deps.json
+/Users/dilip/Desktop/gradebook/src/GradeBook/bin/Release/net5.0/publish/GradeBook.runtimeconfig.json
+/Users/dilip/Desktop/gradebook/src/GradeBook/bin/Release/net5.0/publish/GradeBook.pdb
