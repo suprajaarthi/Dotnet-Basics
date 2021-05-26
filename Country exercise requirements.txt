@@ -1,0 +1,80 @@
+﻿
+1. Define namespace called WorldNamespace
+
+
+
+2. Create a base class called World
+
+
+
+3. Create non-accessible (outside class) variable called planetName
+
+
+
+4. Define enumerations called Continents (with the continents names)
+
+
+
+5. Create non-accessible (outside class) instance of enum Continents called Continents
+
+
+
+6. Create a property to allow access to planetName and Continents
+
+
+
+7. Define two more enums called Currencies and Languages
+
+
+
+8. Define a child class called Country derived from World
+
+
+
+9. Define non-accessible (outside class)  four variables in class Country which are countryName, capital,  countryLanguages and currency
+
+
+
+10. Define a struct called CountryLanguages which has two non-accessible (outside class) variables called firstLanguage and secondLanguage 
+and two properties called FirstLanguage 
+and SecondLanguage to allow access to firstLanguage and secondLanguage
+
+
+
+11. Create four properties in class Country named CountryName, Capital, CountryLanguages 
+and Currencies to give access to four variables countryName, capital,  countryLanguages and currency
+
+
+
+12. Create a constructor to initialize properties CountryName and Capital
+
+
+
+13. Define two overloaded methods called SayHi (which says Hi) one with no arguments and the 
+other with one string arguments to mention the country
+
+
+
+14. In the main method create two instances of Country class name them countryOneInstance and countryTwoInstance
+
+
+
+15. Create instance of the struct CountryLanguages called countryLanguages 
+
+
+
+16. Assign two different languages using Languages enum
+
+
+
+17. Assign the instance countryLanguages to countryOneInstance.CountryLanguages
+
+
+
+18. Set planetName to “earth” and countryName to “any country”
+
+19. Set Currency and Continents to corresponding enums values
+
+
+
+20. Call SayHi methods and display values of countryOneInstance
