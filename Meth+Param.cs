@@ -7,6 +7,8 @@ namespace basicsYT
         static void Main(string[] args)
         {
             Sayhi("Cat");
+            Sayhi("Bat");
+            Sayhi("Dog");
             Console.ReadLine();
 
         }
@@ -17,5 +19,7 @@ namespace basicsYT
     }
 }
 
-//Hello user
+//Hello Cat
+//Hello Bat
+//Hello Dog
 
