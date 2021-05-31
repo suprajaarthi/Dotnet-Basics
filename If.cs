@@ -11,6 +11,10 @@ namespace basicsYT
             {
                 Console.WriteLine("You are male");
             }
+            else
+            {
+                Console.WriteLine("You are not male");
+            }
 
             Console.ReadLine();
         }
