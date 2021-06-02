@@ -1,0 +1,15 @@
+/Users/dilip/Projects/Calci/Calci/obj/Debug/net5.0/Calci.csprojAssemblyReference.cache
+/Users/dilip/Projects/Calci/Calci/obj/Debug/net5.0/Calci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilip/Projects/Calci/Calci/obj/Debug/net5.0/Calci.AssemblyInfoInputs.cache
+/Users/dilip/Projects/Calci/Calci/obj/Debug/net5.0/Calci.AssemblyInfo.cs
+/Users/dilip/Projects/Calci/Calci/obj/Debug/net5.0/Calci.csproj.CoreCompileInputs.cache
+/Users/dilip/Projects/Calci/Calci/bin/Debug/net5.0/Calci.deps.json
+/Users/dilip/Projects/Calci/Calci/bin/Debug/net5.0/Calci.runtimeconfig.json
+/Users/dilip/Projects/Calci/Calci/bin/Debug/net5.0/Calci.runtimeconfig.dev.json
+/Users/dilip/Projects/Calci/Calci/bin/Debug/net5.0/Calci.dll
+/Users/dilip/Projects/Calci/Calci/bin/Debug/net5.0/ref/Calci.dll
+/Users/dilip/Projects/Calci/Calci/bin/Debug/net5.0/Calci.pdb
+/Users/dilip/Projects/Calci/Calci/obj/Debug/net5.0/Calci.dll
+/Users/dilip/Projects/Calci/Calci/obj/Debug/net5.0/ref/Calci.dll
+/Users/dilip/Projects/Calci/Calci/obj/Debug/net5.0/Calci.pdb
+/Users/dilip/Projects/Calci/Calci/obj/Debug/net5.0/Calci.genruntimeconfig.cache
