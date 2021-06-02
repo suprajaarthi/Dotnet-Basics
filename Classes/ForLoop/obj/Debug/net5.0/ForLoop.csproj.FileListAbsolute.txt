@@ -1,0 +1,15 @@
+/Users/dilip/Projects/ForLoop/ForLoop/bin/Debug/net5.0/ForLoop.deps.json
+/Users/dilip/Projects/ForLoop/ForLoop/bin/Debug/net5.0/ForLoop.runtimeconfig.json
+/Users/dilip/Projects/ForLoop/ForLoop/bin/Debug/net5.0/ForLoop.runtimeconfig.dev.json
+/Users/dilip/Projects/ForLoop/ForLoop/bin/Debug/net5.0/ForLoop.dll
+/Users/dilip/Projects/ForLoop/ForLoop/bin/Debug/net5.0/ref/ForLoop.dll
+/Users/dilip/Projects/ForLoop/ForLoop/bin/Debug/net5.0/ForLoop.pdb
+/Users/dilip/Projects/ForLoop/ForLoop/obj/Debug/net5.0/ForLoop.csprojAssemblyReference.cache
+/Users/dilip/Projects/ForLoop/ForLoop/obj/Debug/net5.0/ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilip/Projects/ForLoop/ForLoop/obj/Debug/net5.0/ForLoop.AssemblyInfoInputs.cache
+/Users/dilip/Projects/ForLoop/ForLoop/obj/Debug/net5.0/ForLoop.AssemblyInfo.cs
+/Users/dilip/Projects/ForLoop/ForLoop/obj/Debug/net5.0/ForLoop.csproj.CoreCompileInputs.cache
+/Users/dilip/Projects/ForLoop/ForLoop/obj/Debug/net5.0/ForLoop.dll
+/Users/dilip/Projects/ForLoop/ForLoop/obj/Debug/net5.0/ref/ForLoop.dll
+/Users/dilip/Projects/ForLoop/ForLoop/obj/Debug/net5.0/ForLoop.pdb
+/Users/dilip/Projects/ForLoop/ForLoop/obj/Debug/net5.0/ForLoop.genruntimeconfig.cache
