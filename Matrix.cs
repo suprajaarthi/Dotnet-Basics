@@ -13,8 +13,14 @@ namespace ForLoop
                 {3,4 },
                 {5,6 }
             };
+            int[,] myArray = new int[2, 3];
             Console.WriteLine(numberGrid[1,1]);
+            Console.WriteLine(myArray);
         }
 
     }
 }
+//OP:
+
+//4
+//System.Int32[,]
