@@ -22,9 +22,28 @@ namespace ForLoop
            
         }
     }
-}
-//OP:
+}   
 
-//Enter a number :7
-//Enter another number : 0
-//Attempted to divide by 0 
+
+
+// other way 
+
+
+using System;
+
+namespace ForLoop
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Book book1 = new Book("Harry Potter","JK Rowling",400);
+
+            Book book2 = new Book("Lord of Rings","Tolkein",700);
+            book2.title="The hobbit";
+            
+            Console.WriteLine(book2.title);
+           
+        }
+    }
+}
