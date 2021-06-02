@@ -15,12 +15,16 @@ namespace ForLoop
                 Console.WriteLine(num1 / num2);
                 Console.ReadLine();
             }
-            catch
+            catch (DivideByZeroException e)
             {
-                Console.WriteLine("Cannot divide by 0");
+                Console.WriteLine(e.Message);
             }
-            
-        }
+            catch(FormatException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+            }
 
     }
 }
@@ -28,4 +32,4 @@ namespace ForLoop
 
 //Enter a number :7
 //Enter another number : 0
-//Cannot divide by 0
+//Attempted to divide by 0 
